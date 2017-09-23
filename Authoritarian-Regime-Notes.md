@@ -1,5 +1,4 @@
 # PS 300 - Elections
-Richard Xu
 
 ## Elections in authoritarian states
 * Elections look nice to the outside world, which is why non-democratic rulers have them, but they're solely a pretense. 
