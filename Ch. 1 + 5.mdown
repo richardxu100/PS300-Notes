@@ -1,0 +1,155 @@
+---
+title: Comparative Politics - Ch. 1 + 5
+notebook: School
+tags:1school, 2college
+---
+
+# Chapter 1
+> PS 300 - Comparative Politics
+
+## Key concepts: an overview
+
+**Question: What is comparative politics?** 
+
+* **Concept:** an idea, term or category such as democracy, that is best identified with a definition restricted to its inherent characteristics
+* **Conception:** a broader version of concept, which builds on perspectives and interpretations of a concept.
+  - ex. We can conceive of democracy as self-government, direct democracy, or representative government
+* **Social Science:** the study of human society and of interactions among people. 
+
+**Conclusion:** 
+Comparative politics is the study of the institutions, behavior, and performance of gov.t and political processes in different societies. 
+
+## Government and governance
+
+**Question: What's the difference between government and governance?** 
+
+* **Government:** the arena for making and enforcing collective institutions. 
+  - Also referred to as a specific administration (Putin), a form of rule (centralized gov.t), and the nature of rule of an administration (good/bad gov.t)
+  - Includes police, military, public servants, and judges
+* Idea of gov.t came from Hobbes, who believed that it would allow for mutually benefical cooperation. 
+* **HOWEVER:** Locke repudiated this idea, saying that we gov.t can create new problems (who's going to look over the guards?)
+* **Political System:** the interactions and organizations through which a society enforces collective decisions. Interchangeable with regime, though better connotation.
+* **Governance:** the whole range of actors involved in gov.t, in which decisions and policies are made. 
+  - Has a more publicly regulated feel, unlike gov.t's command/control power
+  - Is a supplement, not replacement to gov.t
+
+**Conclusion:** 
+Government is the vehicle in which collective decisions are made, while governance refers to the specific processes that create these decisions. 
+
+## Politics
+
+**Question: What are three clear features of politics** 
+
+* **Politics:** the process in which people compete and negotiate for collective decisions. 
+  - Is kind of a nebulous term. Can there be politics in the workplace?
+  - Has three clear aspects
+    + Collective activity
+    + Affects at least two people, for a course of action or to resolve a dispute
+    + Decisions made become authorative and binding. If a war is declared, you go to war or go to jail.
+  - Crick and Aristotle didn't do a great job at explaining what politics actually is (their ideal). 
+  - **Quote:** Mao Zedong - War is politics with bloodshed
+* Politics is a mixture between love and war.
+
+**Conclusion:** 
+Politics involves collective activity, decisions which are binding and authoritative, and decisions which affect more than one person.
+
+## Power
+* **Power:** the power to bring about intended effects, like influence
+* Some people see power and politics as the mobilization of bias. 
+
+## Authority and Legitimacy
+* **Authority:** the acknowledged right to rule. 
+  - A general may have power over enemy soliders, but he only has authority over his own soldiers
+* **Legitimacy:** whether people accept the authority of the political system
+* Legitimacy is more influential than force in creating a stable foundation for rule
+
+## Ideology
+* **Ideology:** a system of beliefs, shared view of the world, or a blueprint of how politics, economies, and society should be structured 
+* Left likes equality, human rights, reform, while the right likes tradition, established authority, and national interest.
+  - Left likes ethnic diversity while the right more likes national unity
+
+## Comparative politics
+* **Comparative politics:** the study of the governments of different countries, to broaden our perspective and to predict political outcomes
+* **Broadening understanding**
+  - Comparative politics helps a lot on this end. British politicians are too fierce in the EU, b/c this tended to work in their parliament
+* **Predicting political outcomes**
+  - Things like "Power tends to corrupt, and absolute power corrupts absolutely" aren't laws.
+  - It's really hard to predict society
+
+## Classifying political systems
+* **Typology:** a system of classification which divides states into groups with common features 
+* One typology is *The Spirit of the Laws* by Montesquie, which included monarchial, despotic, and republican systems
+* **Three Worlds system:** 
+  - First world: wealthy, democratic, industrialized, Western countries against Communism
+  - Second world: communist systems, against the Western alliance
+  - Third World: poorer, less democratic, less developed states which may or may not have taken sides during the Cold War
+  - This typology was created during the Cold War, not too relevant today. 
+    + The Democracy Index, and the *Freedom in the World* index are two things which are replacing it. 
+* **Political economy:** the relationship between political activity and economic performance
+* **Gross national income (GNI):** the total value of the foreign and domestic output for the residents of a country in a given year. 
+* Per capita GNI can be more revealing than just GNI
+* We also rate coutries based on how it performs in providing wcitizens with basic needs.
+            
+---
+
+# Chapter 5 - Theoretical approaches
+> PS 300 - Comparative Politics
+
+**Question: What are the five theoretical approaches?** 
+
+**Conclusion:** 
+1. Institutional
+2. Structural
+3. Behavioral
+4. Rational
+5. Interpretive approaches
+
+## Theoretical approaches: an overview
+* **Theory:** an abstract or generalized approach to explaining or understanding a phenomenon 
+* There are so many diverse theories, can be like anarchy or a bonus
+* The institutional approach is the most important
+* Comparative political theory should also be more inclusive by including non-Western perspectives
+
+## The changing face of comparative politics
+* Comparative politics was created in America, to study the distinct systems around the world, like in Western Europe, the USSR, and Japan (we thought we were superior)
+* **Grand theory:** a broad form of theorizing that tries to incorporate many theories and explain broad areas of a discipline rather than specific ones. 
+* Some favored a quantitative approach (focused on data analysis), while others favoured a qualitative approach (history, culture, case studies, depth over breadth)
+* Comparative politics is still to focused on Western ideas, and isn't very precise at predicting stuff
+
+## The institutional approach
+* **Institutions:** the main organizations of a national gov.t, like the legislature, judiciary, executive, and sometimes political parties
+* **Institutionalism:** an approach to studying politics which focuses on the structure and dynamics of governing institutions
+* **Institutionalization:** process by which organizations build stability and permanence 
+* Institutions offer stability and predictability 
+* Institutions can serve those who rule, like in Communist countries and liberal democracies with gerrymandering
+
+## New institutionalism
+* **New Institutionalism:** a revival of institutionalism that goes beyond formal rules and looks at how institutions shpe decisions and define interests
+* Two reasons why institutions shape behavior:
+  - It provides benefits and wages to its staff, creating interests
+  - It creates norms which in turn shape behavior
+* **Logic of appropriateness:** the actions which members of an institution take to conform to its norms. Heads of state will for example perform ceremonial duties b/c it's what's expected of them
+* **Logic of consequences:** the actions which members of an institution take on the basis of a rational calculation of altruism or self-interest
+
+## The behaviooural approach
+* **Behaviouralism:** an approach to the study of politics which emphasizes people over institutions
+* It was too specialized and took the focus away from the institutions of gov.t 
+* It produced political science with too much science and too little politics
+
+## The structural approach
+* **Structuralism:** an approach to political science focused on relationships among parts, rather than the parts themselves
+* Structuralist would care more about the framework of inequality, not the values of poor people trapped in the cycle of poverty
+
+## The rational choice approach
+* **Rational choice:** an approach to the study of politics which believes that individuals make choices to maximize their benefitst and minimize their costs
+* Structuralist approach comes out of sociology, rational choice comes out of economics
+* **Collective action problems:** arise when rational behavior by individuals produces a negative outcome for all. 
+  - For example, climate change
+* Not always accurate b/c there a host of other factors
+
+## The interpretive approach
+* **Interpretive approach (aka constructivsim):** an approach to the study of politics based on the argument that politics is formed by the ideas we have about it.
+* Interpretivists believe that by believing individuals act out of self-interest, this in effect makes people act out of their self-interest. 
+* It's a belief that we do things because of the presense of social constructs, beliefs which people perceive the world with. 
+* This idea isn't too practical, these are social constraints. The world can't just be dissolved.
+

@@ -1,0 +1,126 @@
+---
+title: PS300 - Chapter 6 notes 
+notebook: School
+tags:1school, 2college, 2ps300, 2notes
+---
+
+# Chapter 6 Notes
+> PS300 - Comparing government and politics
+
+## Key Ideas
+
+* There a variety of ways to do comparative political research
+* Researchers make choices such as the unit of analysis, level of analysis, and variables to be studied
+* The three main research methods are: the case study, quantitative approach (large quantity), and qualitative approach (small quantity, like 2 to 12)
+  - The quantitative approach isn't at war with the qualitative one. The quantitative approach uses solely numbers, while the qualitative brings in other factors
+  - The case study is the most often used mode for comparison 
+* Different results occur from qualitative vs quantitative and normative vs empirical research
+* History is underused in comparative political research
+
+## Comparing gov.t and politics: an overview
+
+* **Methodology:** how a scientific study is conducted, the means used to reach a certain set of conclusions
+* Research options
+  - **Unit of analysis:** the object of study in comparative politics (ex. states, institutions, movements, policies, individuals, etc.)
+  - **Level of analysis:** the level of study in comparative politics, such as the entire political system or the individual level
+  - **Variable:** a changeable feature, factor, or element
+* Three approaches to political research:
+  - Experimental method - uses experimental and control groups to isolate certain stimuli
+  - Statistical method - uses empirical data to create relationships among variables
+  - **Comparative method:** same as statistical method, but draws conclusions from studying a small number of cases
+
+## Case study method
+
+* **Case study method:** a research method which involves a detailed study of a particular object (person, country, phenomena, etc.), as well as the context with in which that object exists.
+* Case studies add value by offering themes and wider perspectives to a certain case
+  - For example, just looking at the 2012 Japanese election is a study. Looking at it as a rise of power of Conservatives is a case study
+* They look at how a range of factors interact in the context of the example being studied
+
+**Tools of Research:** 
+
+1. **Hypothesis:** a proposed explanation for a phenomenon that can be confirmed or falsfied through observation or experimentation
+2. **Dependent variable:** the factor or element we wish to explain
+3. **Independent variable:** The factor or element believed to influence the dependent variable (often many)
+
+**Types of Case Studies:** 
+
+1. **Representative:** the typical case study, most often used
+2. **Protypical:** a case study on something that is expected to become normal. Like Alexis de Tocqueville's *Democracy in America*.
+3. **Exemplary:** a case study which created the category. Like the British Parliament or U.S. presidency. Not necessarily a protypical/good example, just displays the essential features
+4. **Deviant:** case study which represents the exception, untypical. Like why India is poor if it's a democracy. Sometimes we spend too much time on this.
+5. **Critical/Crucial:** case study under the mantra, "If it works here, it must work everywhere". Dangerous b/c it could result in overgeneralizations.
+
+## Qualitative method
+
+* **Qualitative method:** a research method focused on a small number of cases to understand a phenomenon holistically, with an emphasis on values, opinion, bheavior, and context
+
+**Five features**
+1. Limited number of cases
+2. Descriptive rather than predictive
+3. Effort made to understand the interaction among multiple variables
+4. Meaning is allowed to emerge from the objects studied
+5. Observation is the main form of data collection
+6. Phenomena are studied within their natural habitat
+
+* **Most similar system (MSS):** a research design which uses cases that are as similar as possible, to control for similarities and isolate the causes of differences. Have different dependent variables (what's being studied)
+* **Most different system:** a research design based on using cases which are as different as possible, controlling for the differences and isolating the causes of similarities
+  - For example, a study of democracy in very different countries, and how it always created a two-party system. This would show that there's a link between democracy and two-party systems
+
+## Quantitative method
+
+* **Quantitative method:** a research method involving variables rather than cases, which attempts to explain political phenomena using statistics (big-N)
+* **Correlation:** a relationship between two or more variables or attributes
+* **Regression line:** the line of best fit in a scatterplot, summarizing the relationship between two variables
+* **Outliers:** the observations furthest away from the value predicted by the regression line
+* Correlation doesn't show the direction of causation. Democracies may have better economies than authoritarian regimes, but it might just be that strong economies lead to democracies, not the other way around
+
+## The challenges of comparison
+
+### Too few cases, too many variables
+
+* It's hard to find an identical case in all but one variable to compare to. 
+* The way to combat this is by turning to history, using most similar system designs, and counterfactuals ("What if?").
+* **Counterfactuals:** a thought experiment speculating on possible outcomes if a certain factor had been absent from a process, or a certain factor had been present. 
+
+### Selection Bias
+
+* **Selection bias:** when selected cases and variables are unrepresentative of the wider class from which they are drawn from
+  - **FE:** western democracies as representative of all democracies. 
+* We don't usually do random sampling here, so the goal is mainly to understand that this bias is here
+* Quantitative method reduces selection bias because we have a large N, but it can re-emerge in the variables we choose
+  - **FE:** we use a lot of data from the World Bank, economies, which are published in countries, not a lot about politics. 
+* By only studying positive cases, we also commit selection bias b/c we reduce variation
+
+**Three forms:** 
+1. **Survivorship bias:** a form of selection bias when we only study surviving examples of political types, overlooking past examples (f.e. looking at the surviving communist states)  
+2. **Value bias:** allowing assessments, choice of facts, and conclusions to be impacted by the values of the researcher (our underlying politics, lens)
+3. **Confirmation bias:** the tendency to seek out information that confirms pre-existing beliefs, and to ignore information that does not
+
+### Understanding Meaning
+
+* The meaning of political actions differ between states.
+  - **FE:** voting against one's party can be seen as benign, or grounds for expulsion in different countries
+* If we don't take this into account, then we'll be committing cultural imperalism, imposing our meaning onto other societies.
+
+### Globalization
+
+* Smaller countries with advanced economies like Belgium and Netherlands are the best integrated in globalization
+* Every place is interdependent, interconnected
+* Globalization (McDonaldization) promotes, peace, prosperity, and relative unity at the cost of independence, community, and identity
+* Treating all states as separate can be a mistake because it ignores the common external influence of globalization
+
+## Historical Method
+
+* **Historical method:** research method based on studying cases from the post, with a focus on their development through time
+* **Analytic narrative:** an attempt to integrate historical and political science research methods in seeking to explain a specific outcome
+* We can't understand the EU without understanding the history behind the EU
+* **Process tracing:** the study of the sequence of events linking a cause to an effect
+* **Path dependence:** the idea that the outcome of a process depends on earlier decisions that lead down a particular path
+* A football team is path dependent if the first score decides the game, or path independent if the better team always wins
+* **Critical junctures:** a turning point which establishes interests, structures, or institutions persisting through time
+  - Critical phases are during crises, and all cards are on the table: revolution, constitutional conventions, etc.
+* **Sequencing:** the idea that the order of events, not merely their occurrence, affects the outcome
+  - **FE:** when trade unions are created before socialist states, the ideologies become less radical
+  - Include confluences
+* **Slow-moving causes:** processes that unfold over a long period of time, but which can have dramatic effects
+  - **FE:** the rise of the mass media, technological advance, the spread of education.       

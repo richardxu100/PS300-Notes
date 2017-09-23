@@ -1,0 +1,89 @@
+---
+title: PS300 Chapter 3 Notes - Democratic Rule
+notebook: School
+tags: 1school, 2college, 3ps300, 2notes
+---
+
+# Chapter 3 - Democratic Rule
+> PS 300 Comparative Politics
+
+## Key Ideas
+* Half of the world lives under democratic rule, even though there is no universally agreed upon definition of democracy. Democracy is an ideal and a system of gov.t
+* Athenian democracy is often a standard which today's indirect democracies are judged upon
+* Liberal democracy goes above representative democracy in that it limits gov.t and protects the rights of citizens
+* B/c of lack of economic development, liberal democracy might not be a good short-term goal for low-income countries (don't have requisites). 
+* Democracies spread from three waves, though a lack of trust in gov.t is leading to problems in democracy
+* People study how old authoritarian forms of rule collapse, and the subsequent emergence of democracy
+
+## Democratic rule: an overview
+* **Democracy:** a system of rule in which gov.t is based on a fair and open mandate from all qualified citizens of a state
+* **Democratization:** the process by which states build the institutions and processes that lead them to becoming democracies
+* Features of a modern democracy:
+  - regular, fair, competitive elections
+  - predictable institutions with a system of checks and balances
+  - wide array of political participation, such as political parties
+  - protection of individual rights and freedoms, sustained by a judiciary
+  - active, effective, and protected opposition
+  - diverse and independent media, free to share a wide array of opinions
+* Democracy is the worst form of gov.t besides all of the other ones
+* Three different types:
+  - Direct
+  - Representative
+  - Liberal
+
+## Direct democracy
+* **Direct democracy:** a system of gov.t in which all members of a community take part in decisions that affect the community
+* The model that was in place in Athens
+* Athenian democracy didn't include all adults, only men, had weak turnout for meetings, was time-consuming, overly complex, and lead to incoherent policy that destroyed Athens
+  - A lot of people don't have interest or aren't informed about politics
+* Direct democracy doesn't really exist today, can be seen in referendums
+* **E-democracy:** a form of democracy in which everyone who is interested in a problem can express themselves via the internet or social media
+  - **PROBLEMS:** 
+    + Bandwagon effect, like hashtags
+    + People who express themselves on social media are often more polarized
+    + Creates issues of privacy
+    + Need access to the internet, which is hard in poor areas
+    + Internet can be manipulated by authoritarian regimes
+    + **Echo chamber:** when people only seek out the information which fits their values and preconceived ideas (amplifies them)
+
+## Representative democracy
+* **Representative democracy:** a system of gov.t in which members of a community elect reps to represent their interests and to make decisions
+* A lot of people such as Rousseau believed that rep. democracy would lead to an "elected monarchy", corruption.
+* Rep. democracy allows infinite scalability, unlike direct democracy
+* Joseph Schumpeter believed that citizens weren't good at politics and that elections were just a way to pick hand-picked representatives by the parties
+* A lot of issues in how democracy achieves its ideals in the real world (like voter intimidation, etc.)
+
+## Liberal Democracy
+* **Liberal democracies:** an elected representative gov.t with limited power. Individual rights are protected (majority rule with minority rights)
+* **Limited gov.t:** limiting the power of gov.t to protect the rights of citizens
+* **Liberalism:** a belief in the supreme value of the individual, who must have their natural rights protected from too much gov.t
+* **QUOTE:** John Stuart Mill: "the only purpose for which power can be reightfully exercised over any member of a civilized community, against his will, is to prevent harm to others"
+* **Civil Liberties:** rights that citizens have relative to gov.t, that shouldn't be restricted by gov.t
+* India is quoted as being the world's biggest democracy, but it's flawed.
+  - **Structural violence:** social, economic, and political oppression built into many societies
+  - In India's case, it's the restriction of rights and treatment for women and the poor.
+* **Checks and balances:** institutions are given powers which counter-balance one another, forcing them to work together
+* Rep. democracy is an older phrase that was also embraced by socialists, liberal democracy is one which favours a market economy and limited gov.t
+
+## Democracy and modernization
+* **Modern:** a state which is industrial/post-industrial, affluent, has specialized occupations, social mobility, and an urban educated population
+* 
+
+---
+
+# External Readings
+**Question 1: What political institutions does polyarchal democracy require?** 
+1. Elected officials
+2. Free, fair, and frequent elections
+3. Freedom of expression
+4. Alternative sources of information (besides gov.t)
+5. Associational autonomy (like political parties and interest groups)
+6. Inclusive citzenship (every citizen has rights and can participate in democracy)
+
+
+
+
+
+
+
+
